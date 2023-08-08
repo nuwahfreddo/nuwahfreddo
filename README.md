@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nuwahfreddo
+- 👋 Hi, I’m nuwahfreddo
 - 👀 I’m interested in Junior DevOps Role
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate in DevOps team 
-- 📫 How to reach me on WhatsApp at +971 561010346 
+- 📫 How to reach me +971 561010346  nuwahfreddo2@gmail.com
 
 <!---
 nuwahfreddo/nuwahfreddo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
